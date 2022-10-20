@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bwb/static/css/main.55c28806.css",
-    "main.js": "/bwb/static/js/main.3f0b54a6.js",
-    "static/js/787.fe231baf.chunk.js": "/bwb/static/js/787.fe231baf.chunk.js",
-    "index.html": "/bwb/index.html",
-    "main.55c28806.css.map": "/bwb/static/css/main.55c28806.css.map",
-    "main.3f0b54a6.js.map": "/bwb/static/js/main.3f0b54a6.js.map",
-    "787.fe231baf.chunk.js.map": "/bwb/static/js/787.fe231baf.chunk.js.map"
+    "main.css": "/cobweb/static/css/main.55c28806.css",
+    "main.js": "/cobweb/static/js/main.31c477a0.js",
+    "static/js/787.f163c0c7.chunk.js": "/cobweb/static/js/787.f163c0c7.chunk.js",
+    "index.html": "/cobweb/index.html",
+    "main.55c28806.css.map": "/cobweb/static/css/main.55c28806.css.map",
+    "main.31c477a0.js.map": "/cobweb/static/js/main.31c477a0.js.map",
+    "787.f163c0c7.chunk.js.map": "/cobweb/static/js/787.f163c0c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55c28806.css",
-    "static/js/main.3f0b54a6.js"
+    "static/js/main.31c477a0.js"
   ]
 }
